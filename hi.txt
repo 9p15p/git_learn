@@ -1,2 +1,3 @@
 on feature2
-on feature2 new
+on feature2 2nd
+on feature2 3rd

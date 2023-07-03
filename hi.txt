@@ -5,3 +5,4 @@ on feature2 3rd
 5th
 test_stash_1
 test_stash_2
+test_diff
